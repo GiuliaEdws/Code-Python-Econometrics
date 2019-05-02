@@ -9,3 +9,4 @@ Links to useful modules:
 * [Using API](http://docs.python-requests.org/en/master/user/quickstart/#make-a-request)
 * [Regular expressions](https://docs.python.org/3/howto/regex.html#regex-howto)
 * [Scraping](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [Working with SQLite3](https://docs.python.org/3.6/library/sqlite3.html)
