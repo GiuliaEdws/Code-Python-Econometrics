@@ -12,6 +12,8 @@
 * [Scraping](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Working with SQLite3](https://docs.python.org/3.6/library/sqlite3.html)
 
+### Fast sparse regression (e.g. High-dim FE)
+* [FastReg](https://github.com/iamlemec/fastreg_
 
 ### Structural Models
 
