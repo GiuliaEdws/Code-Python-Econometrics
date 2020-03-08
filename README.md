@@ -17,7 +17,7 @@
 
 ### Structural Models
 
-* [BLP in Python](https://pypi.org/project/pyblp/)
+* [BLP in Python](https://pypi.org/project/pyblp/), and [best practices for using it](https://chrisconlon.github.io/site/pyblp.pdf)
 
 ### ML 
 
