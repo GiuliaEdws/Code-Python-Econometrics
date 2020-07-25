@@ -24,4 +24,5 @@
 * Bayesian deep learning: [PYSGMCMC](https://github.com/MFreidank/pysgmcmc) and [Edward](http://edwardlib.org/)
 * [Deep IV](https://github.com/jhartford/DeepIV)
 * [Variational Inference](https://github.com/blei-lab)
-* [MSR's DML Python Packages](https://econml.azurewebsites.net/)
+* [MSR's EconML package](https://econml.azurewebsites.net/)
+* [Uber's CausalML package](https://github.com/uber/causalml): for inference, use their learners in conjunction with DML. 
