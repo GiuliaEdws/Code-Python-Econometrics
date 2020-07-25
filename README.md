@@ -24,5 +24,5 @@
 * Bayesian deep learning: [PYSGMCMC](https://github.com/MFreidank/pysgmcmc) and [Edward](http://edwardlib.org/)
 * [Deep IV](https://github.com/jhartford/DeepIV)
 * [Variational Inference](https://github.com/blei-lab)
-* [MSR's EconML package](https://econml.azurewebsites.net/)
+* [MSR's EconML package](https://econml.azurewebsites.net/). [This link](https://econml.azurewebsites.net/spec/comparison.html) compares the properties (types of treatment effect suited) of the popular causal ML estimators included in their package; useful to check before use. 
 * [Uber's CausalML package](https://github.com/uber/causalml): for inference, use their learners in conjunction with DML. 
